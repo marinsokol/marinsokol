@@ -4,7 +4,7 @@ Hi 👋 My name is Marin Markovic
 Freelance Full Stack Web Developer 
 ---------------------------------- 
 * 🌍  I'm based in Split, Croatia 
-*  🖥️  See my portfolio at [starworks.dev](http://starworks.dev) 
+*  🖥️  See my portfolio at [marinmarkovic.com](https://www.marinmarkovic.com)
 *  ✉️  You can contact me at [marin.sokol@gmail.com](mailto:marin.sokol@gmail.com)
 
 ### Skills
